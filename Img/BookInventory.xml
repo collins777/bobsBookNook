@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+  <Book>
+    <Title>10th Anniversary</Title>
+    <ISBN>9781455511464</ISBN>
+    <Author>Maxine Paetro and James Patterson</Author>
+    <Category>Mystery</Category>
+    <Image>10thanniversary.jpg</Image>
+    <Description>Detective Lindsay Boxer's long-awaited wedding celebration becomes a distant memory when she is called to investigate a horrendous crime a badly injured teenage girl is left for dead, and her newborn baby is nowhere to be found. Lindsay discovers that not only is there no trace of the criminals--but that the victim may be keeping secrets as well. For every lieAt the same time, Assistant District Attorney Yuki Castellano is prosecuting the biggest case of her life--a woman who has been accused of murdering her husband in front of her two young children. Yuki's career rests on a guilty verdict, so when Lindsay finds evidence that could save the defendant, she is forced to choose. Should she trust her best friend or follow her instinct? There's a different way to dieLindsay's every move is watched by her new boss, Lieutenant Jackson Brady, and when the pressure to find the baby begins interfering with her new marriage to Joe, she wonders if she'll ever be able to start a family</Description>
+  </Book>
+  <Book>
+    <Title>Fifty Shades Darker</Title>
+    <ISBN>9780345803498</ISBN>
+    <Author>E. L. James</Author>
+    <Category>Fiction</Category>
+    <Image>50ShadesDarker.jpg</Image>
+    <Description>A 2012 erotic romance novel by British author E. L. James. It is the second installment in the Fifty Shades trilogy that traces the deepening relationship between a college graduate, Anastasia Steele, and a young business magnate, Christian Grey.</Description>
+  </Book>
+  <Book>
+    <Title>50 Shades Freed</Title>
+    <ISBN>9758345019283</ISBN>
+    <Author>E. L. James</Author>
+    <Category>Fiction</Category>
+    <Image>50ShadesFreed.jpg</Image>
+    <Description>Fifty Shades Freed is the third and final installment of the erotic romance Fifty Shades Trilogy by British author E. L. James. After accepting entrepreneur CEO Christian Grey's proposal in Fifty Shades Darker, Anastasia Steele must adjust not only to married life but to her new husband's wealthy lifestyle and controlling nature. </Description>
+  </Book>
+  <Book>
+    <Title>baseball A History of the National Pastime</Title>
+    <ISBN>1546015098543</ISBN>
+    <Author>Mark Stewart</Author>
+    <Category>Sports</Category>
+    <Image>15460150_b.jpg</Image>
+    <Description>A comprehensive history of baseball focusing on its evolution, momentous events, and key personalities</Description>
+  </Book>
+  <Book>
+    <Title>Heroes of Baseball: The Men Who Made It America's Favorite Game</Title>
+    <ISBN>9873432156789</ISBN>
+    <Author>Robert Lypsyte</Author>
+    <Category>Sports</Category>
+    <Image>55128099_b.jpg</Image>
+    <Description>Their names echo through the halls of time and the National Baseball Hall of Fame. Their feats are legendary. They never quit, and they never backed down. They inspired generations of Americans to push themselves to do their very best. They were, and remain, the heroes of baseball.</Description>
+  </Book>
+  <Book>
+    <Title>Adventurers</Title>
+    <ISBN>9781448832910</ISBN>
+    <Author>Jane Bingham</Author>
+    <Category>Adventure</Category>
+    <Image>adventurers.jpg</Image>
+    <Description>Chronicles the achievements of men and women whose adventurous spirit led them to faraway places and important discoveries, including Neil Armstrong, Amelia Earhart, and Matthew Henson.</Description>
+  </Book>
+  <Book>
+    <Title>Alice's Adventures In Wonderland</Title>
+    <ISBN>7685940391234</ISBN>
+    <Author>Lewis Carrol</Author>
+    <Category>Fiction</Category>
+    <Image>Alice.jpg</Image>
+    <Description>It tells of a girl named Alice falling through a rabbit hole into a fantasy world populated by peculiar, anthropomorphic creatures. The tale plays with logic, giving the story lasting popularity with adults as well as with children. It is considered to be one of the best examples of the literary nonsense genre. Its narrative course and structure, characters and imagery have been enormously influential in both popular culture and literature, especially in the fantasy genre.</Description>
+  </Book>
+  <Book>
+    <Title>bindi Wildlife Adventures Rescue!</Title>
+    <ISBN>8695049321289</ISBN>
+    <Author>Bindi Irwin</Author>
+    <Category>Adventure</Category>
+    <Image>bindi.jpg</Image>
+    <Description>A fast-paced adventure series featuring The Jungle Girl herself! The stories are inspired and co-created by Bindi Irwin, daughter of the iconic wildlife expert, Steve Irwin. The series features the characters of Bindi, her brother Robert, mother Terri, and the Australia Zoo.</Description>
+  </Book>
+  <Book>
+    <Title>The Children's Book of Christmas Stories</Title>
+    <ISBN>8787879690123</ISBN>
+    <Author>Anonymous</Author>
+    <Category>Childrens Books</Category>
+    <Image>childrenschristmasstory.jpg</Image>
+    <Description>Many librarians have felt the need and expressed the desire for a select collection of children's Christmas stories in one volume. This book claims to be just that and nothing more. Each of the stories has already won the approval of thousands of children, and each is fraught with the true Christmas spirit. It is hoped that the collection will prove equally acceptable to parents, teachers, and librarians. </Description>
+  </Book>
+  <Book>
+    <Title>Bismarck</Title>
+    <ISBN>9780199975396</ISBN>
+    <Author>Jonathan Steinberg</Author>
+    <Category>History</Category>
+    <Image>Bismark.jpg</Image>
+    <Description>This riveting, New York Times bestselling biography illuminates the life of Otto von Bismarck, the statesman who unified Germany but who also embodied everything brutal and ruthless about Prussian culture. </Description>
+  </Book>
+  <Book>
+    <Title>Tough Guy My Life on the Edge</Title>
+    <ISBN>8767654345678</ISBN>
+    <Author>Bob Probert</Author>
+    <Category>Sports</Category>
+    <Image>bobprobert.jpg</Image>
+    <Description>A discussion of his life as a hockey player.</Description>
+  </Book>
+  <Book>
+    <Title>Cindy Ellen</Title>
+    <ISBN>5647389876980</ISBN>
+    <Author>Susan Lowell</Author>
+    <Category>Childrens Books</Category>
+    <Image>cinderella.jpg</Image>
+    <Description>Once there was a rancher who married for his second wife the orneriest woman west of the Mississippi. She was meaner than a rattlesnake, and she had two daughters who were the spitting image of her. The rancher also had a daughter, who was just as sweet and gentle as could be. Her name was Cindy Ellen.</Description>
+  </Book>
+  <Book>
+    <Title>Cowboy Ethics</Title>
+    <ISBN>7676545432167</ISBN>
+    <Author>James P Owen</Author>
+    <Category>Finance</Category>
+    <Image>CowboyEthics.jpg</Image>
+    <Description>Veteran financier James P. Owen shares his new perspective on Wall Street and how the Code of the West can and should be applied to business practices and the corporate world. The book is beautifully illustrated with David Stoecklein's western photography, and explores a new approach to ethical thinking in the investment industry.</Description>
+  </Book>
+  <Book>
+    <Title>Charles Dickens</Title>
+    <ISBN>9780143122050</ISBN>
+    <Author>Claire Tomlalin</Author>
+    <Category>Biography</Category>
+    <Image>Charles Dickens.jpg</Image>
+    <Description>Award-winning author Claire Tomalin sets the standard for sophisticated and popular biography, having written lives of Jane Austen, Samuel Pepys, and Thomas Hardy, among others. Here she tackles the best recognized and loved man of nineteenth-century England, Charles Dickens; a literary leviathan whose own difficult path to greatness inspired the creation of classic novels such as Great Expectations, David Copperfield, Oliver Twist, and Hard Times. </Description>
+  </Book>
+  <Book>
+    <Title>Cowboy Values</Title>
+    <ISBN>5647382910876</ISBN>
+    <Author>James P Owen</Author>
+    <Category>Finance</Category>
+    <Image>CowboyValues.jpg</Image>
+    <Description>Owen continues his nonpartisan message, offering the legacy of the cowboy as a model of accessible, positive qualities that all can agree on, regardless of religion or political persuasion.</Description>
+  </Book>
+  <Book>
+    <Title>Cowboy Wisdom</Title>
+    <ISBN>5647382987693</ISBN>
+    <Author>David Stevenson and David R. Stoecklein</Author>
+    <Category>History</Category>
+    <Image>CowboyWisdom.jpg</Image>
+    <Description>Light-hearted sayings and witty quotations about life as a cowboy, together with David Stoecklein's striking photographs, make up this tribute to the simple code and genuine moral values of the many working cowgirls and cowboys of the West. This book imparts a valuable lesson to its readers?that of living honestly, giving back to the world, and getting the most out of what life has to offer.</Description>
+  </Book>
+  <Book>
+    <Title>Dash and Lilys Book of Dares</Title>
+    <ISBN>7685643219807</ISBN>
+    <Author>Rachel Cohn and David Levithan</Author>
+    <Category>Teen and Young Adult</Category>
+    <Image>dashandlily.jpg</Image>
+    <Description>not available</Description>
+  </Book>
+  <Book>
+    <Title>Eclipse</Title>
+    <ISBN>0192938476789</ISBN>
+    <Author>Stephenie Meyer</Author>
+    <Category>Paranormal Romance</Category>
+    <Image>Eclipse.jpg</Image>
+    <Description>Book 3 of the Twilight Saga</Description>
+  </Book>
+  <Book>
+    <Title>Groucho</Title>
+    <ISBN>5657489878901</ISBN>
+    <Author>Stephan Kanfer</Author>
+    <Category>Biography</Category>
+    <Image>groucho.jpg</Image>
+    <Description>Biography of Groucho</Description>
+  </Book>
+  <Book>
+    <Title>Hard Winter</Title>
+    <ISBN>5456234445677</ISBN>
+    <Author>Johnny D. Boggs</Author>
+    <Category>Western</Category>
+    <Image>hard winter.jpg</Image>
+    <Description>Weather and creaking joints permitting, Jim Hawkins could be found every weekend sitting in that rocker right outside the Manix Store in Augusta, whittling and spitting. But Jim Hawkins didn t say much. </Description>
+  </Book>
+  <Book>
+    <Title>Killing Lincoln</Title>
+    <ISBN>7766558899776</ISBN>
+    <Author>Bill OReilly</Author>
+    <Category>History</Category>
+    <Image>linkon.jpg</Image>
+    <Description>The first sentence of the book appears on page one in a "Note to Readers" by O'Reilly: The story you are about to read is true and truly shocking</Description>
+  </Book>
+  <Book>
+    <Title>The Murder Room</Title>
+    <ISBN>7889989878654</ISBN>
+    <Author>Michael Capuzzo</Author>
+    <Category>Mystery</Category>
+    <Image>mroom.jpg</Image>
+    <Description>The heirs of Sherlock Holms gather to solve Cold Cases</Description>
+  </Book>
+  <Book>
+    <Title>Who Killed Roger Ackroyd?</Title>
+    <ISBN>8877766655543</ISBN>
+    <Author>Pierre Bayard</Author>
+    <Category>Mystery</Category>
+    <Image>RogerAckroyd.jpg</Image>
+    <Description>The mystery behind the Agatha Christie Mystery</Description>
+  </Book>
+  <Book>
+    <Title>Strategic Moves</Title>
+    <ISBN>5566677788676</ISBN>
+    <Author>Stuart Woods</Author>
+    <Category>Mystery</Category>
+    <Image>StrategicMoves.jpg</Image>
+    <Description>A Stone Barrington Novel</Description>
+  </Book>
+  <Book>
+    <Title>Breaking Dawn</Title>
+    <ISBN>7685932109801</ISBN>
+    <Author>Stephenie Meyer</Author>
+    <Category>Paranormal Romance</Category>
+    <Image>BreakingDawn.jpg</Image>
+    <Description>Book 2 of the Twilight Saga</Description>
+  </Book>
+</Inventory>
